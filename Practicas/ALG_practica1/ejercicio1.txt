@@ -1,0 +1,26 @@
+#include <iostream>
+#include <vector>
+#include <cstdlib>
+#include <ctime>
+
+using namespace std;
+
+vector<int> eliminar_repetidos(vector<int> v) {
+
+    vector<int> sin_repetidos;
+    for (auto x : v) {
+        if (find(sin_repetidos.begin(), sin_repetidos.end(), x) == sin_repetidos.end())
+            sin_repetidos.push_back(x);
+    }
+    return sin_repetidos;
+}
+
+int main() {
+
+    vector<int> v = {5, 1, 9, 2, 2, 5, 1, 1, 7};
+    vector<int> sin_repetidos = eliminar_repetidos(v);
+    for (auto x : sin_repetidos) {
+        cout << x << " ";
+    }
+    return 0;
+}

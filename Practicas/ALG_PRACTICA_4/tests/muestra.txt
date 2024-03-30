@@ -1,0 +1,10 @@
+Tamaño: 100 -> Tiempo: 53 microsegundos
+Tamaño: 500 -> Tiempo: 246 microsegundos
+Tamaño: 1000 -> Tiempo: 454 microsegundos
+Tamaño: 2000 -> Tiempo: 860 microsegundos
+Tamaño: 3000 -> Tiempo: 1311 microsegundos
+Tamaño: 4000 -> Tiempo: 1716 microsegundos
+Tamaño: 5000 -> Tiempo: 2114 microsegundos
+Tamaño: 6000 -> Tiempo: 2545 microsegundos
+Tamaño: 7000 -> Tiempo: 2938 microsegundos
+Tamaño: 8000 -> Tiempo: 3393 microsegundos

@@ -1,0 +1,29 @@
+//EJERCICIO 2
+#include <iostream>
+#include <vector>
+
+using namespace std;
+/**
+vector<int> eliminar_repetidos_ordenado(vector<int>& v) {
+    if (v.empty()) return v;
+
+    int j = 0; // última posición de un elemento único en el vector
+    for (int i = 1; i < v.size(); i++) {
+        if (v[i] != v[j]) {
+            j++;
+            v[j] = v[i];
+        }
+    }
+    v.erase(v.begin() + j + 1, v.end());
+    return v;
+}
+
+int main() {
+    vector<int> v = {1, 1, 1, 2, 2, 5, 5, 7, 9};
+    eliminar_repetidos_ordenado(v);
+    for (auto x : v) {
+        cout << x << " ";
+    }
+    return 0;
+}
+*/

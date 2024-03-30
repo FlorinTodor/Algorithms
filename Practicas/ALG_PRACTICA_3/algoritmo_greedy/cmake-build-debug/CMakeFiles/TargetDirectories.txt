@@ -1,0 +1,3 @@
+/home/flo/Desktop/ALG/ALG_PRACTICA_3/algoritmo_greedy/cmake-build-debug/CMakeFiles/algoritmo_greedy.dir
+/home/flo/Desktop/ALG/ALG_PRACTICA_3/algoritmo_greedy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/flo/Desktop/ALG/ALG_PRACTICA_3/algoritmo_greedy/cmake-build-debug/CMakeFiles/rebuild_cache.dir

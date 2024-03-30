@@ -1,0 +1,18 @@
+# ninja log v5
+0	18	1679429351685145922	build.ninja	bc3cee9b43d1e88c
+1	24	1679426654271732907	CMakeFiles/ALG_practica1.dir/ejercicio2.cpp.o	3a9170721f086f9a
+1	215	1679428847828941932	CMakeFiles/ALG_practica1.dir/mergesort.cpp.o	7e687f5bd36593b1
+215	260	1679428847872942286	ALG_practica1	129983b7afb801b3
+1	297	1679428819352712710	CMakeFiles/ALG_practica1.dir/main.cpp.o	385ac6f299c59c05
+1	197	1679428833308824898	CMakeFiles/ALG_practica1.dir/heapsort.cpp.o	bb3076f85e53d5d
+0	249	1679426667943818689	CMakeFiles/ALG_practica1.dir/ejercicio1.cpp.o	762ad512d4929189
+1	212	1679438213741501752	CMakeFiles/ALG_practica1.dir/ejercicio1.cpp.o	762ad512d4929189
+1	280	1679438213809501195	CMakeFiles/ALG_practica1.dir/main.cpp.o	385ac6f299c59c05
+1	297	1679438213825501064	CMakeFiles/ALG_practica1.dir/ejercicio2.cpp.o	3a9170721f086f9a
+1	176	1679438224165417254	CMakeFiles/ALG_practica1.dir/hanoi.cpp.o	cd941f275edc557b
+0	248	1679438232697349591	CMakeFiles/ALG_practica1.dir/ejercicio2.cpp.o	3a9170721f086f9a
+248	293	1679438232741349245	ALG_practica1	4fc74de9beb149d
+1	270	1679438350832539323	CMakeFiles/ALG_practica1.dir/main.cpp.o	385ac6f299c59c05
+270	322	1679438350884539013	ALG_practica1	4fc74de9beb149d
+0	255	1679438376844389650	CMakeFiles/ALG_practica1.dir/main.cpp.o	385ac6f299c59c05
+255	301	1679438376888389404	ALG_practica1	4fc74de9beb149d
